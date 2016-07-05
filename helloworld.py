@@ -1,4 +1,5 @@
 #-- Add a line to start
+import math
 print "Hello World"
 print "Hello Again"
 print "I like typing this."
